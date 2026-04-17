@@ -99,18 +99,6 @@ Pipeline:
 
 ---
 
-## 🚀 Próximos Passos
-
-- [ ] Melhorar pré-processamento de texto
-- [ ] Usar n-grams (bigram/trigram)
-- [ ] Expandir dataset com dados mais realistas
-- [ ] Implementar matriz de confusão
-- [ ] Testar multi-label classification
-- [ ] Salvar e servir o modelo (API)
-- [ ] Integrar com sistema real (WhatsApp / catálogo digital)
-
----
-
 ## 💡 Aplicação Real
 
 Este projeto é base para:
@@ -126,6 +114,4 @@ Este projeto é base para:
 
 Jean Cecilio  
 Estudante de Ciência da Computação  
-Construindo sistemas na interseção entre IA e problemas do mundo real
-
 ---
