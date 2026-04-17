@@ -1,4 +1,4 @@
-# 🧠 AI Learning Journey — Classificação de Intenção (NLP)
+# AI Learning Journey — Classificação de Intenção (NLP)
 
 Este repositório documenta minha evolução prática em Inteligência Artificial, começando pelos fundamentos de Machine Learning aplicados a problemas reais.
 
@@ -6,7 +6,7 @@ O foco inicial é construir um sistema capaz de classificar intenções de usuá
 
 ---
 
-## 🎯 Problema
+## Problema
 
 Negócios que vendem via WhatsApp recebem mensagens com diferentes intenções:
 
@@ -20,7 +20,7 @@ O desafio é automatizar a identificação dessas intenções para melhorar aten
 
 ---
 
-## ⚙️ Solução (Versão Atual)
+## Solução
 
 Foi desenvolvido um classificador de texto utilizando:
 
@@ -39,7 +39,7 @@ Pipeline:
 
 ---
 
-## 🧪 Classes do Modelo
+## Classes do Modelo
 
 - `preco`
 - `disponibilidade`
@@ -49,7 +49,7 @@ Pipeline:
 
 ---
 
-## 📊 Métricas (Exemplo)
+## Métricas (Exemplo)
 
 - Acurácia: ~0.75
 - Precision, Recall e F1-score avaliados por classe
@@ -58,7 +58,7 @@ Pipeline:
 
 ---
 
-## 📚 Aprendizados por Aula
+## Aprendizados por Aula
 
 ### ✅ Aula 1 — Fundamentos de NLP + Classificação
 
@@ -81,7 +81,7 @@ Pipeline:
 
 ---
 
-## 🔍 Insights Importantes
+## Insights Importantes
 
 - O modelo não "entende" linguagem — ele aprende padrões estatísticos
 - Palavras como "preço", "frete", "desconto" influenciam diretamente a decisão
@@ -90,7 +90,7 @@ Pipeline:
 
 ---
 
-## ⚠️ Limitações Atuais
+## Limitações Atuais
 
 - Dataset pequeno (baixa generalização)
 - Classificação single-label (não lida bem com múltiplas intenções)
@@ -99,7 +99,7 @@ Pipeline:
 
 ---
 
-## 💡 Aplicação Real
+## Aplicação Real
 
 Este projeto é base para:
 
@@ -110,7 +110,7 @@ Este projeto é base para:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Jean Cecilio  
 Estudante de Ciência da Computação  
