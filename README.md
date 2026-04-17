@@ -60,7 +60,7 @@ Pipeline:
 
 ## Aprendizados por Aula
 
-### ✅ Aula 1 — Fundamentos de NLP + Classificação
+### Aula 1 — Fundamentos de NLP + Classificação
 
 - O que é aprendizado supervisionado
 - Criação de dataset rotulado
@@ -70,7 +70,7 @@ Pipeline:
 
 ---
 
-### ✅ Aula 2 — Inspeção e Interpretação do Modelo
+### Aula 2 — Inspeção e Interpretação do Modelo
 
 - Uso do modelo com novas frases
 - Interpretação de probabilidades (`predict_proba`)
